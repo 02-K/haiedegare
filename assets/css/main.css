@@ -62,7 +62,7 @@
 }
 
 .introduction::before {
-    content: "TL";
+    content: "EV";
     position: absolute;
     top: 50%;
     left: 50%;
